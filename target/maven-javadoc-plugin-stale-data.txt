@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Jimmie/IdeaProjects/LibraryInl2/src/main/java;C:/Users/Jimmie/IdeaProjects/LibraryInl2/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Jimmie/IdeaProjects/LibraryInl2/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'LibraryInl2 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'LibraryInl2 1.0-SNAPSHOT API'
+se.yrgo.models
+se.yrgo.ui
+se.yrgo.utilities
+C:\Users\Jimmie\IdeaProjects\LibraryInl2\src\main\java = 1706633737666
+C:\Users\Jimmie\IdeaProjects\LibraryInl2\target\generated-sources\annotations = 1707245384787
+C:\Users\Jimmie\IdeaProjects\LibraryInl2\target\site\apidocs\allclasses-index.html = 1707245389429
+C:\Users\Jimmie\IdeaProjects\LibraryInl2\target\site\apidocs\allpackages-index.html = 1707245389432
+C:\Users\Jimmie\IdeaProjects\LibraryInl2\target\site\apidocs\element-list = 1707245389343
+C:\Users\Jimmie\IdeaProjects\LibraryInl2\target\site\apidocs\help-doc.html = 1707245389460
+C:\Users\Jimmie\IdeaProjects\LibraryInl2\target\site\apidocs\index-all.html = 1707245389453
+C:\Users\Jimmie\IdeaProjects\LibraryInl2\target\site\apidocs\index.html = 1707245389415
+C:\Users\Jimmie\IdeaProjects\LibraryInl2\target\site\apidocs\jquery-ui.overrides.css = 1707245389479
+C:\Users\Jimmie\IdeaProjects\LibraryInl2\target\site\apidocs\member-search-index.js = 1707245389438
+C:\Users\Jimmie\IdeaProjects\LibraryInl2\target\site\apidocs\module-search-index.js = 1707245389434
+C:\Users\Jimmie\IdeaProjects\LibraryInl2\target\site\apidocs\overview-summary.html = 1707245389456
+C:\Users\Jimmie\IdeaProjects\LibraryInl2\target\site\apidocs\overview-tree.html = 1707245389412
+C:\Users\Jimmie\IdeaProjects\LibraryInl2\target\site\apidocs\package-search-index.js = 1707245389435
+C:\Users\Jimmie\IdeaProjects\LibraryInl2\target\site\apidocs\script.js = 1707245389464
+C:\Users\Jimmie\IdeaProjects\LibraryInl2\target\site\apidocs\search.js = 1707245389466
+C:\Users\Jimmie\IdeaProjects\LibraryInl2\target\site\apidocs\serialized-form.html = 1707245389372
+C:\Users\Jimmie\IdeaProjects\LibraryInl2\target\site\apidocs\stylesheet.css = 1707245389462
+C:\Users\Jimmie\IdeaProjects\LibraryInl2\target\site\apidocs\tag-search-index.js = 1707245389439
+C:\Users\Jimmie\IdeaProjects\LibraryInl2\target\site\apidocs\type-search-index.js = 1707245389436
