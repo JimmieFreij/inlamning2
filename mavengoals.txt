@@ -1,0 +1,7 @@
+
+compile "mvn compile"
+ta bort klass filerna "mvn clean"
+javadoc "mvn javadoc:javadoc"
+rapport för testerna "mvn surefire report:report"
+testning "mvn test"
+paketering "mvn package"
